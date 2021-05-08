@@ -20,7 +20,8 @@ def run_model(index):
     print(copy_input_command)
     os.system(copy_input_command) 
 
-    run_model_command='./simple.py '+name_
+    #run_model_command='./simple.py '+name_
+    run_model_command='python simple.py '+name_
     print(run_model_command)
     os.system(run_model_command)
 
