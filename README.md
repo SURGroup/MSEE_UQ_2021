@@ -17,10 +17,3 @@ Pre-Workshop Activities
 - Participants will be given instructions for installing the open source software UQpy and any other necessary software on their system.           
 - If the participant has a simple code that they would like to use for UQ, they are encouraged to have an example available. Instructions will be provided.
 
-Day 1: Intro & Uncertainty Propagation using Monte Carlo Methods
-
-Day 2: Uncertainty Propagation using Numerical Methods & Surrogate Models
-
-Day 3: Inverse UQ & Model Selection Using Bayesian Methods
-
-
