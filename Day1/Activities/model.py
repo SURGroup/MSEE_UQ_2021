@@ -29,10 +29,7 @@ def boucwen_runmodel(params_array):
     """ 
     Run Bou-Wn model with RunModel
     """
-    z = np.zeros(params_array.shape[0])
-    for i in range(params_array.shape[0]):
-        z[i] = boucwen(params_array[i, :])
-
+    
     return z
     
 
